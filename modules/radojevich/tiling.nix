@@ -10,18 +10,6 @@
 
           settings = builtins.fromTOML (builtins.readFile ./aerospace.toml);
         };
-
-        homebrew = {
-          taps = [
-            {
-              name = "FelixKratz/formulae";
-            }
-          ];
-
-          brews = [
-            "borders"
-          ];
-        };
       };
   };
 }

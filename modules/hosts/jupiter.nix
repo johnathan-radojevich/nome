@@ -1,6 +1,6 @@
 { vix, ... }:
 {
-  den.aspects.zeus = {
+  den.aspects.jupiter = {
     darwin = {
       users.users.radojevich.home = "/Users/radojevich";
       system.primaryUser = "radojevich";

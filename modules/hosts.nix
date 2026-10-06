@@ -17,7 +17,7 @@
     };
   };
 
-  den.hosts.aarch64-darwin.zeus = {
+  den.hosts.aarch64-darwin.jupiter = {
     users = {
       radojevich = { };
     };

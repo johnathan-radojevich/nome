@@ -28,10 +28,12 @@
         enable = true;
 
         casks = [
+          "actual"
           "backblaze"
           "claude"
           "codex"
           "docker-desktop"
+          "drawio"
           "firefox"
           "istat-menus"
           "microsoft-excel"
